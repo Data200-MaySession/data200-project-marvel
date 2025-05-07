@@ -2,13 +2,13 @@
 
 ## Team Information
 
-### Team Name
+### Marvel
 *Replace this with your team name*
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. *Ritik Rimal (ritikrimal)*
+2. *Pramish Sihali(pramish-sihali)*
+3. *Abhisek Panthi (Abhisek)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
